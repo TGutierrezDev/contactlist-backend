@@ -62,4 +62,5 @@ public class Contact {
 	@Override
 	public String toString() {
 		return "Contact{" + "id=" + this.id + ", name='" + this.name + '\'' + ", role='" + this.email + '\'' + '}';
+	}
 }
